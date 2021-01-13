@@ -1,7 +1,7 @@
 horizon-view-client
 =========
 
-This Ansible role is for installing the VMware Horizon View Client application in Linux.
+This Ansible role is for installing the VMware Horizon View Client application on Linux.
 
 Role Variables
 --------------
